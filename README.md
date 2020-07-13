@@ -10,15 +10,14 @@ I'm Edilson Alzemand. I am a bachelor in information systems and a student of a 
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **HTML, Javascript and CSS,Bootstrap**
-- Backend development using **Web2Py, Django and PHP**
+- Front-end development using **HTML, Javascript, CSS** and **Bootstrap**
+- Backend development using **Web2Py, Django** and **PHP**
 - Making for **Relational Database Management Systems**
 - Robust full-stack system design implementation
 - Business intelligence with **Machine Learning**
 ## Hello World!!
-- 💬 Ask me about anything an everything.
 - 🚀 Visite my site: [Edilson Alzemand](https://alzemand.com)
-- 🔔 Subscribe:- [Alzemand](https://www.youtube.com/channel/UCNbDp8wVVH9h9tt7RiKi7Yw)
+- 🔔 Subscribe: [Alzemand](https://www.youtube.com/channel/UCNbDp8wVVH9h9tt7RiKi7Yw)
 
 ![Alzemand's github stats](https://github-readme-stats.vercel.app/api?username=alzemand&show_icons=true)
 

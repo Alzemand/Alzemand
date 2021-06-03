@@ -1,7 +1,5 @@
 <h2> Hello! Welcome to my Github profile.</h2>
 
-<img align='right' src='https://raw.githubusercontent.com/Alzemand/Alzemand/master/python.gif' width='100"'>
-
 
 [![Twitter Badge](https://img.shields.io/badge/-@alzemand-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alzemand)](https://twitter.com/alzemand) [![Linkedin Badge](https://img.shields.io/badge/-alzemand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alzemand/)](https://www.linkedin.com/in/alzemand/) 
 [![Gmail Badge](https://img.shields.io/badge/-edilson_alzemand@id.uff.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edilson_alzemand@id.uff.br)](mailto:edilson_alzemand@id.uff.br)

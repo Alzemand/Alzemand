@@ -17,7 +17,6 @@ Talk to me about
 - 🚀 Visite my site: [Edilson Alzemand](https://alzemand.com)
 - 🔔 Subscribe: [Alzemand](https://www.youtube.com/channel/UCNbDp8wVVH9h9tt7RiKi7Yw)
 
-![Alzemand's github stats]
 
 
 <div align="center">

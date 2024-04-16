@@ -16,11 +16,3 @@ Talk to me about
 ## Hello World!!
 - 🚀 Visite my site: [Edilson Alzemand](https://alzemand.com)
 - 🔔 Subscribe: [Alzemand](https://www.youtube.com/channel/UCNbDp8wVVH9h9tt7RiKi7Yw)
-
-
-
-<div align="center">
- <a href="https://github.com/alzemand">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzemand&layout=compact&langs_count=7&theme=codeSTACKr"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alzemand&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-</div>

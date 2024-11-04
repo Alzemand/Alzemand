@@ -9,7 +9,7 @@ I'm Edilson Alzemand. Software Developer
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **HTML, Javascript, CSS** and **Bootstrap**
-- Backend development using **Web2Py, Django** and **PHP**
+- Backend development using **Web2Py, Django**, **LARAVEL** and **PHP**
 - Making for **Relational Database Management Systems**
 - Robust full-stack system design implementation
 - Business intelligence with **Machine Learning**
